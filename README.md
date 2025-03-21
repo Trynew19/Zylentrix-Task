@@ -14,7 +14,7 @@ This is a simple **RESTful API** built using **Node.js, Express.js, and MongoDB*
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/user-management-api.git
+git clone https://github.com/Trynew19/Zylentrix-Task.git
 cd ZYLENTRIX-TASK
 ```
 
